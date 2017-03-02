@@ -36,7 +36,7 @@ public class ArithmeticOperators {
      * EG: eight plus fifteen
      */
     public static void addTwoIntegers() {
-
+        System.out.println(5 + 2);
         // todo: add two integers together and print them out.
 
     }
@@ -48,7 +48,7 @@ public class ArithmeticOperators {
      * EG: eight plus fifteen plus negative one hundred
      */
     public static void addThreeIntegers() {
-
+        System.out.println(3 + 4 + 5);
         // todo: add three integers together and print the result.
 
     }
@@ -61,7 +61,7 @@ public class ArithmeticOperators {
      * EG: eight point one plus two point one five
      */
     public static void addTwoDoubles() {
-
+        System.out.println(5.2 + 3.2);
         // todo: add two doubles together and print out the result.
 
     }
@@ -72,7 +72,7 @@ public class ArithmeticOperators {
      * EG: eight point one plus two point one five plus negative twenty one point five one
      */
     public static void addThreeDoubles() {
-
+        System.out.println(4.3 + 4.2 + 9.0);
         // todo: add three doubles together and print out the result.
 
     }
@@ -86,7 +86,7 @@ public class ArithmeticOperators {
      * EG: negative five plus thirty two point eight
      */
     public static void addANegativeAndPositiveNumber() {
-
+        System.out.println(-5 + 3);
         // todo: add and print a negative number and a positive number
 
     }
@@ -97,7 +97,7 @@ public class ArithmeticOperators {
      * EG: five plus thirty two point eight
      */
     public static void addIntegerAndDouble() {
-
+        System.out.println(3 + 5.3);
         // todo: add together and print out an integer and a double
     }
 
@@ -108,7 +108,7 @@ public class ArithmeticOperators {
      * EG: thirty five minus two point eight
      */
     public static void subtractTwoNumbers() {
-
+        System.out.println(3 - 1);
         // todo: subtract two numbers and print the result
 
     }
@@ -120,7 +120,7 @@ public class ArithmeticOperators {
      * EG: thirty five minus two point eight minus seventeen
      */
     public static void subtractThreeNumbers() {
-
+        System.out.println(3 - 1 - 1);
         // todo: subtract three numbers and print the result
     }
 
@@ -131,7 +131,7 @@ public class ArithmeticOperators {
      * EG: negative thirty five minus two point eight
      */
     public static void subtractANegativeAndPositiveNumber() {
-
+        System.out.println(3 - -1);
         // todo: subtract a negative and positive number
 
     }
@@ -143,7 +143,7 @@ public class ArithmeticOperators {
      * EG: seventy five plus negative thirty five minus two point eight
      */
     public static void combineAdditionAndSubtractionWithThreeNumbers() {
-
+        System.out.println(5 + 3 - 1);
         // todo: add and subtract three numbers
 
     }
@@ -155,7 +155,7 @@ public class ArithmeticOperators {
      * EG: six times negative zero point one
      */
     public static void multiplyTwoNumbers() {
-
+        System.out.println(3 * 3);
         // todo: multiply two numbers
 
     }
@@ -166,7 +166,7 @@ public class ArithmeticOperators {
      * EG: eight times zero times one billion point eight
      */
     public static void multiplyThreeNumbers() {
-
+        System.out.println(3 * 7 * 2);
         // todo: multiply three numbers
     }
 
@@ -177,7 +177,7 @@ public class ArithmeticOperators {
      * EG: five divided by negative twelve.
      */
     public static void divideTwoIntegers() {
-
+        System.out.println(9 / 3);
         // todo: divide two integers
 
     }
@@ -188,7 +188,7 @@ public class ArithmeticOperators {
      * EG: twenty five divided by negative 12 divided by two
      */
     public static void divideThreeIntegers() {
-
+        System.out.println(12 / 3 / 5);
         // todo: divide three integers
 
     }
@@ -199,7 +199,7 @@ public class ArithmeticOperators {
      * EG: twenty five point zero divided by negative five point eight
      */
     public static void divideTwoDoubles() {
-
+        System.out.println(5.3 / 2.5);
         // todo: divide two doubles
 
     }
@@ -210,7 +210,7 @@ public class ArithmeticOperators {
      * EG: twenty five point zero divided by negative five point eight divided by two hundred thirty two point seven
      */
     public static void divideThreeDoubles() {
-
+        System.out.println(10.8 / 2.4 / 3.5);
         // todo: divide three numbers
 
     }
@@ -221,7 +221,7 @@ public class ArithmeticOperators {
      * EG: twenty five divided by five point four
      */
     public static void divideIntegerByDouble() {
-
+        System.out.println(6 / 5.2);
         // todo: divide an integer by a double
 
     }
@@ -232,7 +232,7 @@ public class ArithmeticOperators {
      * EG: five point four divided by twenty five
      */
     public static void divideDoubleByInteger() {
-
+        System.out.println(4.7 / 10);
         // todo: divide a double by an integer
 
     }
@@ -245,7 +245,7 @@ public class ArithmeticOperators {
      * EG: The remainder when dividing twenty five by four
      */
     public static void remainderOfDividingTwoIntegers() {
-
+        System.out.println(5 % 3);
         // todo: print the remainder of dividing two integers
     }
 
@@ -261,7 +261,7 @@ public class ArithmeticOperators {
      * EG: The remainder of five plus negative four minus negative four times three divided by two point three, divided by nine
      */
     public static void combineAllFiveOperatorsWithParenthesisAndNegativeAndPositiveIntegersAndDoubles() {
-
+        System.out.println((8+5) - 3 * ((18 + 5) * 3) / 5.5 + -2.5 + 5 % 3);
         // todo: write a complex expression
 
     }
